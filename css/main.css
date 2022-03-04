@@ -369,6 +369,8 @@ html[dir="rtl"] .search-input {
 .nav-list > li {
   -webkit-margin-end: 35px;
           margin-inline-end: 35px;
+  -webkit-margin-end: 30px;
+          margin-inline-end: 30px;
 }
 
 .nav-list > li:last-of-type {
@@ -387,6 +389,7 @@ html[dir="rtl"] .search-input {
 
 .nav-list > li > a {
   font-size: 16px;
+  font-size: 15px;
   color: #000;
   font-weight: 500;
   -webkit-transition: all 0.3s ease-in-out;
