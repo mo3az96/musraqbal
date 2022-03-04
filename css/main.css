@@ -1898,7 +1898,7 @@ nav {
 @media (max-width: 767px) {
   .live-cont .number {
     width: 45px;
-    height: 75px;
+    height: 60px;
     padding: 5px 4.5px;
   }
 }
