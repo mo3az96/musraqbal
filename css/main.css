@@ -109,7 +109,7 @@ img {
   -ms-interpolation-mode: nearest-neighbor;
 }
 
-section {
+section:not(.live-section) {
   overflow: hidden;
 }
 
